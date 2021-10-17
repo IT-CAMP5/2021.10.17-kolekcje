@@ -12,6 +12,7 @@ public class App {
         map.put(1234, "Janusz");
         map.put(12345, "Karol");
 
+        //??????
         System.out.println(map.size());
 
         System.out.println(map.get(123));
